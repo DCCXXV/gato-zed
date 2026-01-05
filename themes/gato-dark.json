@@ -57,13 +57,13 @@
                 "syntax": {
                     "comment": { "color": "#5C787C", "font_style": "italic" },
                     "constant": { "color": "#FAD074" },
-                    "function": { "color": "#79D6E3", "font_weight": 600 },
-                    "keyword": { "color": "#FF7A7A", "font_weight": 700 },
+                    "function": { "color": "#79D6E3" },
+                    "keyword": { "color": "#FF7A7A" },
                     "number": { "color": "#FAD074" },
                     "operator": { "color": "#8eb2b9" },
                     "punctuation": { "color": "#8eb2b9" },
                     "string": { "color": "#A8E57C" },
-                    "type": { "color": "#FFCC66", "font_weight": 600 },
+                    "type": { "color": "#FFCC66" },
                     "variable": { "color": "#F2F2F2" },
                     "property": { "color": "#79D6E3" }
                 }
