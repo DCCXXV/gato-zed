@@ -1,7 +1,7 @@
 id = "gato-theme"
 name = "Gato Theme"
-description = "Elegant dark theme using the Gato OS palette"
-version = "0.2.0"
+description = "Elegant dark themes using the Gato OS palette"
+version = "0.3.0"
 schema_version = 1
 authors = ["DCCXXV"]
 repository = "https://github.com/DCCXXV/gato-zed"

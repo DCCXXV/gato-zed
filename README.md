@@ -1,6 +1,6 @@
 # Gato Theme
 
-Elegant dark theme for Zed using the Gato OS palette
+Elegant dark themes for Zed using the Gato OS palette
 
 ## Screenshot
 
